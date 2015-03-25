@@ -1,0 +1,35 @@
+body {
+	background-color:gray;
+	text-align:center;
+	width: 300px;
+	margin: auto;
+}
+h1 {
+	color: red;
+	font-family:arial;
+	font-size:150%;
+}
+p {
+	color: white;
+	font-family:verdana;
+	font-size:80%;
+}
+h2 {
+	color: black;
+	/*text-align:left;*/
+	font-family:arial;
+	font-size:100%;
+}
+ul {
+	color: white;
+	/*text-align: left;*/
+	font-family:verdana;
+	font-size:80%;
+	list-style: none;
+	padding: 0;
+}
+a {
+	text-align:center;
+	color:blue;
+	font-size:100%;
+}
